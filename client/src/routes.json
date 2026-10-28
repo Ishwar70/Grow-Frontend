@@ -1,0 +1,15 @@
+{
+  "/": "home",
+  "/services/web-development": "web-development",
+  "/services/app-development": "app-development",
+  "/services/ai-automation": "ai-automation",
+  "/services/digital-marketing": "digital-marketing",
+  "/solutions": "industry-solutions",
+  "/work": "work",
+  "/work/hotel-platform": "hotel-case-study",
+  "/work/gym-platform": "gym-case-study",
+  "/about": "about",
+  "/how-we-work": "how-we-work",
+  "/insights": "insights",
+  "/contact": "contact"
+}
